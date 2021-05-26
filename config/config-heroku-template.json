@@ -303,9 +303,9 @@
         "EnableDaily": false
     },
     "LocalizationSettings": {
-        "DefaultServerLocale": "en",
-        "DefaultClientLocale": "en",
-        "AvailableLocales": ""
+        "DefaultServerLocale": "pt-BR",
+        "DefaultClientLocale": "pt-BR",
+        "AvailableLocales": "pt-BR"
     },
     "SamlSettings": {
         "Enable": false,
