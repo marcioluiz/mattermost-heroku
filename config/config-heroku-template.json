@@ -199,9 +199,9 @@
         "EnablePreviewModeBanner": true,
         "SkipServerCertificateVerification": false,
         "EmailNotificationContentsType": "full",
-        "LoginButtonColor": "#0000",
-        "LoginButtonBorderColor": "#2389D7",
-        "LoginButtonTextColor": "#2389D7"
+        "LoginButtonColor": "#e30000",
+        "LoginButtonBorderColor": "#000000",
+        "LoginButtonTextColor": "#000000"
     },
     "RateLimitSettings": {
         "Enable": false,
@@ -233,7 +233,7 @@
     },
     "ThemeSettings": {
         "EnableThemeSelection": true,
-        "DefaultTheme": "default",
+        "DefaultTheme": "windows10",
         "AllowCustomThemes": true,
         "AllowedThemes": []
     },
