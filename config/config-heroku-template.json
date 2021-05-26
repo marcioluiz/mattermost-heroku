@@ -235,7 +235,7 @@
         "EnableThemeSelection": true,
         "DefaultTheme": "windows10",
         "AllowCustomThemes": true,
-        "AllowedThemes": []
+        "AllowedThemes": ["default", "organization", "mattermostDark", "windows10"]
     },
     "TimezoneSettings": {
         "SupportedTimezonesPath": "timezones.json"
